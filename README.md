@@ -15,7 +15,7 @@
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi99313&layout=compact&hide_border=true&theme=radical" />
 </p>
 
-<p>Find out more about me & feel free to connect with me here:</p>
+<p> **Find out more about me & feel free to connect with me here:**</p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/www.linkedin.com/in/abhishek-kumar-831579205/">
